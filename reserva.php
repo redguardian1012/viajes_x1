@@ -22,8 +22,7 @@
             <label for="nombre">Nombre:</label>
             <input type="text" id="nombre" name="nombre" required>
 
-            <label for="email">Email:</label>
-            <input type="email" id="email" name="email" required>
+             <!--en este formulario me falta ingresar el impit de el mail  -->
 
             <label for="destino">Destino:</label>
             <select id="destino" name="destino" required>
